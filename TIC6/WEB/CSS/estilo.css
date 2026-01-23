@@ -1,0 +1,38 @@
+body{
+    background-color:04447A;
+    color: white;
+    font-family:arial;
+    text-align: center;
+}
+h1{
+       font-family:arial;
+       font-size: 45px; 
+       color: white;
+}
+h2, h3, p{
+     text- align:center,
+}
+img{
+    display:block;
+     margin:0 auto;
+}
+#diana{
+     width: 240px;
+     height: 220px;
+     border-radius: 50%;
+     border: 2px solid #ff0000;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    color:black ;
+    background-color: #04447A;
+    padding: 15px 32px
+}
+#diana:hover {
+    box- shadow: 0 0 2px 1px red;
+  transform: scale(1.5);
+}
+button:hover{
+ background-color:red;
+}
